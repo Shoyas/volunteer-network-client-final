@@ -1,0 +1,19 @@
+.search-item{
+    height: 50px;
+    width: 280px;
+    border: 1px solid lightgray;
+    border-right: none;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-left: 10px;
+}
+.search-btn{
+    height: 51px;
+    width: 120px;
+    border: 1px solid lightgray;
+    border-left: none;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #3F90FC;
+    color: white;
+}

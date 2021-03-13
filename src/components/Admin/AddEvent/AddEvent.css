@@ -1,0 +1,36 @@
+.addEvent-body{
+    height: 500px;
+}
+#event-title{
+    width: 300px;
+}
+#event-btn{
+    color: #4169E1;
+}
+#event-description{
+    width: 300px;
+    height: 120px;
+}
+.Event-part-two{
+    margin-left: 150px;
+}
+#submit-btn{
+    background-color: royalblue;
+    border: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 293px;
+}
+.volunteer-border{
+    border: 20px double skyblue;
+    border-radius: 15px;
+    margin-left: -50px;
+}
+.register-for-event h6{
+    color: black;
+}
+#Add-btn-event{
+    color: black;
+}
